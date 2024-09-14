@@ -21,3 +21,4 @@ def arithmetic_operations():
 
 if __name__ == "__main__":
     arithmetic_operations()
+
